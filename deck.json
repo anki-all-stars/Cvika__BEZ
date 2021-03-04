@@ -51,7 +51,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 50
+                "perDay": 100
             },
             "timer": 0
         }
@@ -62,8 +62,12 @@
     "extendRev": 0,
     "media_files": [
         "EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png",
+        "paste-55bf4da6f8f584dcec140a37ead77e394ad4f831.jpg",
+        "paste-b854a38850ce4951c843069f62aa099a6317a740.jpg",
+        "paste-c1d226c8371d3645095b1d1099ad88f85c6f5644.jpg",
         "xFSftAMBJQ8p3IpZNIksJktNjWztC4jHJ6LNj9wbWoY.original.fullsize.png"
     ],
+    "mid": 1612629169763,
     "name": "Cvika::BEZ",
     "note_models": [
         {
@@ -113,7 +117,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-2-tyden"
+                "bez-1-tyden"
             ],
             "tmpls": [
                 {
@@ -141,6 +145,45 @@
                 "<img src=\"EPzynjrdBMZqxGVtZ0De2lMmn8QYz1d538kQ5tHBZTo.original.fullsize.png\"><div><img src=\"xFSftAMBJQ8p3IpZNIksJktNjWztC4jHJ6LNj9wbWoY.original.fullsize.png\"><br></div>"
             ],
             "guid": "hTmyX?Z<B[",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vyřeš MARAST příklad:&nbsp;<a href=\"https://marast.fit.cvut.cz/cs/problems/12591\">https://marast.fit.cvut.cz/cs/problems/12591</a><div><img src=\"paste-b854a38850ce4951c843069f62aa099a6317a740.jpg\"><br></div>",
+                "<a href=\"https://marast.fit.cvut.cz/cs/problems/12591\">https://marast.fit.cvut.cz/cs/problems/12591</a>",
+                ""
+            ],
+            "guid": "JugQ9n[_]K",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vyřeš MARAST příklad:<br><img src=\"paste-c1d226c8371d3645095b1d1099ad88f85c6f5644.jpg\"><br>",
+                "<a href=\"https://marast.fit.cvut.cz/cs/problems/12590\">https://marast.fit.cvut.cz/cs/problems/12590</a>",
+                ""
+            ],
+            "guid": "It%9$,ANxC",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "bez-1-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vyřeš MARAST příklad:<br><img src=\"paste-55bf4da6f8f584dcec140a37ead77e394ad4f831.jpg\"><br>",
+                "<a href=\"https://marast.fit.cvut.cz/cs/problems/12592\">https://marast.fit.cvut.cz/cs/problems/12592</a>",
+                ""
+            ],
+            "guid": "BOUQc0*tig",
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "bez-1-tyden"
